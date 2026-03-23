@@ -14,6 +14,20 @@ Para extair os dados escolhi os formatos json e csv, porque os dois conseguem ma
 Já na camada curated irei utilizar os dados em parquet, pois como as clouds cobram por quantidade de dados processados o parquet é colunar e compacto e agiliza as querys.
 
 
-3 - s3://agroe-datalake/raw/cepea/soja/2024/01/soja_2024-01.csv
-    s3://agroe-datalake/processed/commodities/soja/2024/01/soja.parquet
-    s3://agroe-datalake/curated/precos_commodities/2024/01/curated.parquet
+3 - Para a estruturação da camada Raw no AWS S3, os dados seriam adicionados ao bucket no formato bruto, sem aplicações de regras de negócio, tratamento ou padronização. O processo seguiria algumas etapas para organização:
+
+Padronização de Arquivos: Cada arquivo CSV seria nomeado com um sufixo correspondente à data do último registro contido nele, facilitando a identificação visual e o controle de carga, exemplo:  algodao01012026.csv
+
+
+Organização e Particionamento:
+O armazenamento seria organizado por tipo de commodity e estruturado através de partições temporais, com a data sendo criada a partir do sufixo do arquivo csv.
+A hierarquia seguiria o seguinte modelo:
+s3://[NOME-DO-BUCKET]/[CAMADA]/[PRODUTO]/year=YYYY/month=MM/day=DD/
+
+Para acessar dados de algodão:
+s3://bkt-datalake/raw/algodao/year=2026/month=01/day=01/algodao01012026.csv
+
+Para acessar dados de soja:
+s3://bkt-datalake/raw/soja/year=2026/month=01/day=01/soja01012026.csv
+
+Uma vez com os dados persistido no S3, um gatilho (Event Bridge ou S3 Trigger) iniciaria automaticamente o pipeline de transformação. Esse fluxo seria responsável por processar e mover os dados para as camadas subsequentes: Processed (limpeza e tipagem) e Curated (aplicação de regras de negócio).
