@@ -25,6 +25,8 @@ Este projeto tem como objetivo demonstrar na prática:
 
 > **Tempo de execução**: a coleta completa pode levar ~5 minutos.
 
+> **Tempo de execução**: todo o projeto respeita as normas LGPD. (https://www.cepea.org.br/br/licenca-de-uso-de-dados.aspx)
+
 ---
 
 ## 🗂️ Estrutura de pastas do projeto
