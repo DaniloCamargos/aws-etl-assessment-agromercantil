@@ -14,4 +14,6 @@ Para extair os dados escolhi os formatos json e csv, porque os dois conseguem ma
 Já na camada curated irei utilizar os dados em parquet, pois como as clouds cobram por quantidade de dados processados o parquet é colunar e compacto e agiliza as querys.
 
 
-3 - 
+3 - s3://agroe-datalake/raw/cepea/soja/2024/01/soja_2024-01.csv
+    s3://agroe-datalake/processed/commodities/soja/2024/01/soja.parquet
+    s3://agroe-datalake/curated/precos_commodities/2024/01/curated.parquet

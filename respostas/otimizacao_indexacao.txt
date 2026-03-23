@@ -5,3 +5,29 @@ Sugira índices ou ajustes de modelagem para otimização.
 Justifique suas escolhas.
 
 
+Resposta:
+
+A estrutura das consultas em SQL são boas mas são para consultas rápidas e corriqueiras, caso haja análise de grande massa de dados no caso, realmente não irá suportar
+
+Por conta da função LAG, que foi proposta na resolução da questao 6.
+calculos em tempo de execução.
+
+Caso permaneça essa mesma estrutura na análise de muitos dados, pode gerar além de um grande delay, um custo alto em ambiente de cloud.
+
+Índices sugeridos:
+
+        - CREATE INDEX idx_fato_preco_data
+                ON analytics.fato_preco (dt_ref);
+
+        - CREATE INDEX idx_fato_preco_commodity_data
+                ON analytics.fato_preco (id_commodity, dt_ref);
+
+        - CREATE INDEX idx_fato_preco_fk
+                ON analytics.fato_preco (id_commodity, id_regiao);
+
+        - CREATE INDEX idx_fato_preco_valido
+                ON analytics.fato_preco (val_brl)
+          WHERE val_brl > 0;
+
+Particionamento da tabela, o que gera baixo impacto, baixo custo e rapidez no processamento de cada requisição.
+Otimiza os filtros e melhora performace da query.
