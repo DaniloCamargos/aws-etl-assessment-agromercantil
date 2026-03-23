@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+python-dotenv
+sqlalchemy
+psycopg2-binary
+selenium
+undetected-chromedriver
+beautifulsoup4
+lxml
+streamlit
