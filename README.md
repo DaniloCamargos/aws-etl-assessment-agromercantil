@@ -4,6 +4,149 @@ Pipeline completo de **coleta, tratamento, modelagem e análise de dados de comm
 
 ---
 
+## 🧩 Mapeamento da Avaliação Técnica
+
+Abaixo está a relação entre cada etapa solicitada na avaliação e sua implementação no projeto:
+
+---
+
+### 1. Coleta de Dados (Web Scraping)
+
+📍 **Arquivo:**
+- `src/extract_commodity.py`
+
+📍 **Saída:**
+- `inputs/csv/`
+- `inputs/json/`
+
+📍 **Descrição:**
+- scraping com selenium
+- tratamento de cloudflare
+- extração de tabelas fragmentadas
+
+---
+
+### 2. Estruturação da Camada Raw
+
+📍 **Diretório:**
+- `inputs/csv`
+
+📍 **Documentação:**
+- `respostas/csv_json_parquet.txt`
+
+📍 **Descrição:**
+- armazenamento em csv e json
+- explicação sobre formatos e uso em data lake
+
+---
+
+### 3. Criação de Tabelas no PostgreSQL
+
+📍 **Arquivo:**
+- `src/normalizar_commodity.py`
+
+📍 **Banco:**
+- schema `analytics`
+
+📍 **Descrição:**
+- criação de tabelas dimensionais e fato
+- definição de pk e fk
+
+---
+
+### 4. Tratamento e ETL
+
+📍 **Arquivo:**
+- `src/insert_commodity.py`
+
+📍 **Banco:**
+- schema `processed`
+
+📍 **Descrição:**
+- limpeza de dados
+- padronização
+- conversão de tipos
+- carga no banco
+
+---
+
+### 5. Estruturação do Data Lake
+
+📍 **Documentação:**
+- `respostas/estrutura_data_lake.txt`
+
+📍 **Diretórios:**
+- `inputs/` → raw
+- `src/` → processed
+- `outputs/` → curated
+
+---
+
+### 6. Análises SQL
+
+📍 **Arquivos:**
+- `db/6a.SQL`
+- `db/6b.SQL`
+- `db/6c.SQL`
+
+📍 **Evidências:**
+- `db/print_query_6a.png`
+- `db/print_query_6b.png`
+- `db/print_query_6c.png`
+
+📍 **Descrição:**
+- média mensal com lag
+- top commodities
+- detecção de anomalias
+
+---
+
+### 7. Otimização e Indexação
+
+📍 **Documentação:**
+- `respostas/otimizacao_indexacao.txt`
+
+---
+
+### 8. Análise Exploratória (Pandas)
+
+📍 **Notebook:**
+- `notebooks/analise_exploratoria_pandas.ipynb`
+
+📍 **Saídas:**
+- `outputs/*.png`
+- `outputs/*.csv`
+
+📍 **Descrição:**
+- estatísticas descritivas
+- detecção de outliers
+- visualizações
+
+---
+
+### 9. Visualização (Streamlit)
+
+📍 **Arquivo:**
+- `src/app.py`
+
+📍 **Descrição:**
+- dashboard interativo
+- filtros e gráficos
+
+---
+
+### 10. Insights e Documentação
+
+📍 **Arquivo:**
+- `README.md`
+
+📍 **Descrição:**
+- padrões encontrados
+- aplicações no agronegócio
+- limitações da fonte
+
+---
+
 ## 🎯 Objetivo
 
 Este projeto tem como objetivo demonstrar na prática:
@@ -28,9 +171,6 @@ Este projeto tem como objetivo demonstrar na prática:
 > **Tempo de execução**: todo o projeto respeita as normas LGPD. (https://www.cepea.org.br/br/licenca-de-uso-de-dados.aspx)
 
 ---
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/39e3bb72-52ec-4b56-b715-bc799ebd4259" />
-
 
 ## 🗂️ Estrutura de pastas do projeto
 
