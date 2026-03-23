@@ -14,7 +14,7 @@ Pipeline completo de **coleta, tratamento, modelagem e análise de dados de comm
 
 > **Tempo de execução**: todo o projeto respeita as normas LGPD. (https://www.cepea.org.br/br/licenca-de-uso-de-dados.aspx)
 
-> **Utilização de IA**: em duas etapas do processo foi utilizado auxílio da IA: '9. Visualização (Streamlit)' e desenvolvimento do README.md. Sempre respeitando as normas LGPD no desenvolvimento.
+> **Utilização de IA**: em três etapas do processo foi utilizado, por questão de tempo e agilidade para entrega da atividade, o auxílio da IA: '9. Visualização (Streamlit)', desenvolvimento do README.md. Sempre respeitando as normas LGPD no desenvolvimento e desenvolvimento do arquivo DOC em anexo ao corpo do email, com um pre-view do projeto.
 
 ---
 
