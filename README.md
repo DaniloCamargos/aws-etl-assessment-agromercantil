@@ -29,6 +29,9 @@ Este projeto tem como objetivo demonstrar na prática:
 
 ---
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/39e3bb72-52ec-4b56-b715-bc799ebd4259" />
+
+
 ## 🗂️ Estrutura de pastas do projeto
 
 
