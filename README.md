@@ -1,57 +1,69 @@
 # 🌾 aws-etl-assessment-agromercantil
 
-Pipeline de coleta, tratamento e normalização de dados de commodities agrícolas do **CEPEA/ESALQ-USP**, desenvolvido como desafio técnico de ETL.
+Pipeline completo de **coleta, tratamento, modelagem e análise de dados de commodities agrícolas**, desenvolvido como avaliação técnica para vaga de **Analista de Dados (Web Scraping)**.
+
+---
+
+## 🎯 Objetivo
+
+Este projeto tem como objetivo demonstrar na prática:
+
+- Coleta de dados via web scraping
+- Estruturação em camadas (raw, processed, curated)
+- Modelagem relacional no PostgreSQL
+- Análises SQL e exploração com Pandas
+- Visualização de dados com gráficos e Streamlit
+- Documentação e geração de insights
 
 ---
 
 ## ⚠️ Avisos importantes
 
-> **Variáveis de ambiente**: o arquivo `.env` **não está versionado** por conter credenciais de banco de dados. Consulte a seção [Configuração](#configuração) para montar o seu.
+> **Variáveis de ambiente**: o arquivo `.env` não está oculto, para validação da criação das variáveis de ambiente.
 
-> **Cloudflare**: o site do CEPEA utiliza proteção anti-bot. O script de extração usa `undetected-chromedriver` para contornar o bloqueio. É necessário ter o **Google Chrome instalado** na máquina.
+> **Cloudflare**: o site do CEPEA possui proteção anti-bot, sendo necessário uso de automação com Selenium.
 
-> **Tempo de execução**: a extração completa das 21 commodities leva aproximadamente **90 minutos** devido aos sleeps necessários para evitar bloqueios.
+> **Tempo de execução**: a coleta completa pode levar ~5 minutos.
 
 ---
 
-## 🗂️ Estrutura do projeto
+## 🗂️ Estrutura de pastas do projeto
+
 
 ```
 aws-etl-assessment-agromercantil/
-├── src/
-│   ├── extracao_commodities.py     # Etapa 1 e 2 — coleta via Selenium
-│   ├── insert_todos_csv.py         # Etapa 4 — ETL e carga na camada processed
-│   └── normalizar_inserir.py       # Etapa 3 — tabelas normalizadas (analytics)
-├── inputs/
-│   ├── csv/                        # Arquivos .csv gerados pela extração
-│   └── json/                       # Arquivos .json gerados pela extração
-├── outputs/                        # Arquivos de saída adicionais
-├── respostas/                      # Documentação e respostas das etapas
-├── notebooks/                      # Exploração e testes
-├── db/                             # Scripts SQL auxiliares
-├── .env                            # ⚠️ Não versionado — ver seção Configuração
-├── .gitignore
+
+├── inputs/ # camada raw (dados brutos)
+│ ├── csv/
+│ └── json/
+
+├── outputs/ # camada curated (dados analisados e visualizações)
+│ ├── *.png
+│ ├── *.csv
+
+├── src/ # camada processed (etl e tratamento)
+│ ├── extract_commodity.py
+│ ├── insert_commodity.py
+│ ├── normalizar_commodity.py
+│ └── app.py
+
+├── notebooks/ # analise exploratoria
+├── db/ # consultas sql
+├── respostas/ # documentacao teorica
+├── .env
 ├── requirements.txt
-└── venv/
+└── README.md
 ```
 
 ---
 
-## ⚙️ Configuração
+## 🧱 Estrutura do Data Lake
 
-Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
-
-```env
-CONEXAO=postgresql://usuario:senha@localhost:5432/postgres
-CSV_DIR=C:\caminho\para\inputs\csv
-JSON_DIR=C:\caminho\para\inputs\json
-COMMODITIES=acucar,algodao,arroz,bezerro,boi-gordo,cafe,citros,etanol,feijao,florestal,frango,hortifruti,leite,mandioca,milho,ovinos,ovos,soja,suino,tilapia,trigo
-SLEEP_CLOUDFLARE=12
-SLEEP_RENDER=2
-SLEEP_REINICIO=5
-WEBDRIVER_TIMEOUT=20
-SCHEMA=processed
-```
+| Camada     | Descrição |
+|------------|----------|
+| **raw**     | dados brutos em csv/json (sem tratamento) |
+| **processed** | dados tratados e padronizados |
+| **curated** | dados prontos para análise e visualização |
 
 ---
 
@@ -174,7 +186,7 @@ Lê todos os `.csv` de `inputs/csv/`, aplica transformações e carrega na camad
 
 ---
 
-## 🗄️ Modelo de dados
+## 🗄️ Modelo de dados (star schema ou snowflake schema a depender da evolução e complexidade dos dados)
 
 ```
 analytics.dim_commodity          analytics.dim_regiao
@@ -203,4 +215,4 @@ analytics.dim_commodity          analytics.dim_regiao
 
 ## 📄 Licença
 
-Projeto desenvolvido para fins de avaliação técnica. Dados fornecidos pelo **CEPEA/ESALQ-USP** — uso acadêmico e de pesquisa.
+Projeto desenvolvido para fins de avaliação técnica. Dados fornecidos pelo **CEPEA/ESALQ-USP** — uso acadêmico e de pesquisa (dados públicos, sem comprometimento das normas LGPD).
