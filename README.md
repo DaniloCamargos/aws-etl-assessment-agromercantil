@@ -4,6 +4,20 @@ Pipeline completo de **coleta, tratamento, modelagem e análise de dados de comm
 
 ---
 
+## ⚠️ Avisos importantes
+
+> **Variáveis de ambiente**: o arquivo `.env` não está oculto, para validação da criação das variáveis de ambiente.
+
+> **Cloudflare**: o site do CEPEA possui proteção anti-bot, sendo necessário uso de automação com Selenium.
+
+> **Tempo de execução**: a coleta completa pode levar ~5 minutos.
+
+> **Tempo de execução**: todo o projeto respeita as normas LGPD. (https://www.cepea.org.br/br/licenca-de-uso-de-dados.aspx)
+
+> **Utilização de IA**: em duas etapas do processo foi utilizado auxílio da IA: '9. Visualização (Streamlit)' e desenvolvimento do README.md. Sempre respeitando as normas LGPD no desenvolvimento.
+
+---
+
 ## 🧩 Mapeamento da Avaliação Técnica
 
 Abaixo está a relação entre cada etapa solicitada na avaliação e sua implementação no projeto:
@@ -157,18 +171,6 @@ Este projeto tem como objetivo demonstrar na prática:
 - Análises SQL e exploração com Pandas
 - Visualização de dados com gráficos e Streamlit
 - Documentação e geração de insights
-
----
-
-## ⚠️ Avisos importantes
-
-> **Variáveis de ambiente**: o arquivo `.env` não está oculto, para validação da criação das variáveis de ambiente.
-
-> **Cloudflare**: o site do CEPEA possui proteção anti-bot, sendo necessário uso de automação com Selenium.
-
-> **Tempo de execução**: a coleta completa pode levar ~5 minutos.
-
-> **Tempo de execução**: todo o projeto respeita as normas LGPD. (https://www.cepea.org.br/br/licenca-de-uso-de-dados.aspx)
 
 ---
 
