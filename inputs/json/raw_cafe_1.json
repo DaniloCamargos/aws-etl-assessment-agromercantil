@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":1962.67,
+        "variacao_diaria_pct":1.98,
+        "valor_usd":9.18,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":1924.51,
+        "variacao_diaria_pct":0.39,
+        "valor_usd":7.06,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":1917.02,
+        "variacao_diaria_pct":-0.53,
+        "valor_usd":6.64,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":1927.15,
+        "variacao_diaria_pct":1.0,
+        "valor_usd":7.21,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":1908.03,
+        "variacao_diaria_pct":1.57,
+        "valor_usd":6.14,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":1878.47,
+        "variacao_diaria_pct":-1.19,
+        "valor_usd":4.5,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":1901.07,
+        "variacao_diaria_pct":1.51,
+        "valor_usd":5.76,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":1872.75,
+        "variacao_diaria_pct":-2.39,
+        "valor_usd":4.18,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":1918.6,
+        "variacao_diaria_pct":-0.56,
+        "valor_usd":6.73,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":1929.37,
+        "variacao_diaria_pct":0.85,
+        "valor_usd":7.33,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":1913.12,
+        "variacao_diaria_pct":2.04,
+        "valor_usd":6.43,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":1874.79,
+        "variacao_diaria_pct":0.8,
+        "valor_usd":4.29,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":1859.96,
+        "variacao_diaria_pct":0.36,
+        "valor_usd":3.47,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":1853.29,
+        "variacao_diaria_pct":0.68,
+        "valor_usd":3.1,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":1840.71,
+        "variacao_diaria_pct":2.4,
+        "valor_usd":2.4,
+        "local":"Indicador Do Café Arábica Cepea\/Esalq",
+        "data_extracao":1774260381000
+    }
+]

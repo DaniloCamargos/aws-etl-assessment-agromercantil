@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":354.85,
+        "variacao_diaria_pct":0.27,
+        "valor_usd":-0.62,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":353.88,
+        "variacao_diaria_pct":0.22,
+        "valor_usd":-0.89,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":353.1,
+        "variacao_diaria_pct":0.34,
+        "valor_usd":-1.11,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":351.91,
+        "variacao_diaria_pct":0.35,
+        "valor_usd":-1.44,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":350.69,
+        "variacao_diaria_pct":-0.05,
+        "valor_usd":-1.78,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":350.85,
+        "variacao_diaria_pct":-0.26,
+        "valor_usd":-1.74,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":351.76,
+        "variacao_diaria_pct":0.08,
+        "valor_usd":-1.48,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":351.49,
+        "variacao_diaria_pct":0.13,
+        "valor_usd":-1.56,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":351.03,
+        "variacao_diaria_pct":-0.16,
+        "valor_usd":-1.69,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":351.61,
+        "variacao_diaria_pct":0.38,
+        "valor_usd":-1.53,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":350.27,
+        "variacao_diaria_pct":-0.36,
+        "valor_usd":-1.9,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":351.53,
+        "variacao_diaria_pct":-0.39,
+        "valor_usd":-1.55,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":352.91,
+        "variacao_diaria_pct":-0.53,
+        "valor_usd":-1.16,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":354.78,
+        "variacao_diaria_pct":-0.74,
+        "valor_usd":-0.64,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":357.41,
+        "variacao_diaria_pct":0.1,
+        "valor_usd":0.1,
+        "local":"Média A Prazo Estado De São Paulo",
+        "data_extracao":1774260367000
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":10.13,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":0.3,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":10.13,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":0.3,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":10.13,
+        "variacao_diaria_pct":-0.39,
+        "valor_usd":0.3,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":10.17,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":0.69,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":10.17,
+        "variacao_diaria_pct":-0.39,
+        "valor_usd":0.69,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":10.21,
+        "variacao_diaria_pct":0.89,
+        "valor_usd":1.09,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":10.12,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":0.2,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":10.12,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":0.2,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":10.12,
+        "variacao_diaria_pct":0.4,
+        "valor_usd":0.2,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":10.08,
+        "variacao_diaria_pct":0.8,
+        "valor_usd":-0.2,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":10.0,
+        "variacao_diaria_pct":0.4,
+        "valor_usd":-0.99,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":9.96,
+        "variacao_diaria_pct":-2.45,
+        "valor_usd":-1.39,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":10.21,
+        "variacao_diaria_pct":0.2,
+        "valor_usd":1.09,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":10.19,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":0.89,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":10.19,
+        "variacao_diaria_pct":0.89,
+        "valor_usd":0.89,
+        "local":"Preços Da Carcaça Suína Especial (R$\/Kg)",
+        "data_extracao":1774260573000
+    }
+]

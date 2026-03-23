@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":350.65,
+        "variacao_diaria_pct":0.3,
+        "valor_usd":-0.71,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":349.6,
+        "variacao_diaria_pct":0.21,
+        "valor_usd":-1.01,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":348.85,
+        "variacao_diaria_pct":0.33,
+        "valor_usd":-1.22,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":347.7,
+        "variacao_diaria_pct":0.36,
+        "valor_usd":-1.54,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":346.45,
+        "variacao_diaria_pct":-0.04,
+        "valor_usd":-1.9,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":346.6,
+        "variacao_diaria_pct":-0.26,
+        "valor_usd":-1.85,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":347.5,
+        "variacao_diaria_pct":0.07,
+        "valor_usd":-1.6,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":347.25,
+        "variacao_diaria_pct":0.13,
+        "valor_usd":-1.67,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":346.8,
+        "variacao_diaria_pct":-0.17,
+        "valor_usd":-1.8,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":347.4,
+        "variacao_diaria_pct":0.39,
+        "valor_usd":-1.63,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":346.05,
+        "variacao_diaria_pct":-0.36,
+        "valor_usd":-2.01,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":347.3,
+        "variacao_diaria_pct":-0.39,
+        "valor_usd":-1.66,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":348.65,
+        "variacao_diaria_pct":-0.53,
+        "valor_usd":-1.27,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":350.5,
+        "variacao_diaria_pct":-0.74,
+        "valor_usd":-0.75,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":353.1,
+        "variacao_diaria_pct":-0.01,
+        "valor_usd":-0.01,
+        "local":"Indicador Do Boi Gordo Cepea\/Esalq",
+        "data_extracao":1774260366000
+    }
+]

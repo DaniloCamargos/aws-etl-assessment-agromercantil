@@ -1,0 +1,50 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":348.65,
+        "variacao_diaria_pct":0.23,
+        "valor_usd":-1.27,
+        "local":"Media Móvel (5 Últimos Indic.)",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":347.84,
+        "variacao_diaria_pct":0.12,
+        "valor_usd":-1.5,
+        "local":"Media Móvel (5 Últimos Indic.)",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":347.42,
+        "variacao_diaria_pct":0.09,
+        "valor_usd":-1.62,
+        "local":"Media Móvel (5 Últimos Indic.)",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":347.1,
+        "variacao_diaria_pct":0.05,
+        "valor_usd":-1.71,
+        "local":"Media Móvel (5 Últimos Indic.)",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":346.92,
+        "variacao_diaria_pct":-0.05,
+        "valor_usd":-1.76,
+        "local":"Media Móvel (5 Últimos Indic.)",
+        "data_extracao":1774260366000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":347.11,
+        "variacao_diaria_pct":0.03,
+        "valor_usd":-1.71,
+        "local":"Media Móvel (5 Últimos Indic.)",
+        "data_extracao":1774260366000
+    }
+]

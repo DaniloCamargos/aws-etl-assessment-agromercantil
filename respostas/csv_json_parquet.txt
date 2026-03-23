@@ -1,0 +1,17 @@
+1 - Organize os arquivos brutos de forma livre (ex.: diretórios locais, diferentes formatos de 
+arquivo). 
+2 - Explique as vantagens de formatos como CSV, JSON e Parquet e justifique sua escolha. 
+3 - Explique também como faria essa mesma organização em um bucket AWS S3.
+
+Respostas:
+
+1 - Organizei os meus arquivos que vão para a camada raw dentro da pasta 'inputs', com subdivisão de formato.
+
+2 - A vantagens de se usar dados nos formatos listados é que são formatos leves e compactos, podendo conter milhares de registros sem pesar no processamento.
+
+Para extair os dados escolhi os formatos json e csv, porque os dois conseguem manter a estrutura original vinda da requisição. Assim consigo trazer os dados conservados e da forma mais completa. 
+
+Já na camada curated irei utilizar os dados em parquet, pois como as clouds cobram por quantidade de dados processados o parquet é colunar e compacto e agiliza as querys.
+
+
+3 - 

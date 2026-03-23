@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":44.35,
+        "variacao_diaria_pct":1.21,
+        "valor_usd":5.49,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":43.82,
+        "variacao_diaria_pct":0.27,
+        "valor_usd":4.23,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":43.7,
+        "variacao_diaria_pct":2.2,
+        "valor_usd":3.95,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":42.76,
+        "variacao_diaria_pct":-1.32,
+        "valor_usd":1.71,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":43.33,
+        "variacao_diaria_pct":-0.32,
+        "valor_usd":3.07,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":43.47,
+        "variacao_diaria_pct":-0.91,
+        "valor_usd":3.4,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":43.87,
+        "variacao_diaria_pct":-1.02,
+        "valor_usd":4.35,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":44.32,
+        "variacao_diaria_pct":0.2,
+        "valor_usd":5.42,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":44.23,
+        "variacao_diaria_pct":1.4,
+        "valor_usd":5.21,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":43.62,
+        "variacao_diaria_pct":0.37,
+        "valor_usd":3.76,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":43.46,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":3.38,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":43.46,
+        "variacao_diaria_pct":0.84,
+        "valor_usd":3.38,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":43.1,
+        "variacao_diaria_pct":3.41,
+        "valor_usd":2.52,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":41.68,
+        "variacao_diaria_pct":-0.86,
+        "valor_usd":-0.86,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":42.04,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":0.0,
+        "local":"Laranja Pera In Natura",
+        "data_extracao":1774260396000
+    }
+]

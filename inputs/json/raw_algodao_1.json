@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":374.45,
+        "variacao_diaria_pct":0.72,
+        "valor_usd":6.3,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":371.79,
+        "variacao_diaria_pct":0.18,
+        "valor_usd":5.54,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":371.12,
+        "variacao_diaria_pct":1.37,
+        "valor_usd":5.35,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":366.09,
+        "variacao_diaria_pct":0.3,
+        "valor_usd":3.92,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":365.01,
+        "variacao_diaria_pct":0.18,
+        "valor_usd":3.62,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":364.34,
+        "variacao_diaria_pct":0.84,
+        "valor_usd":3.43,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":361.32,
+        "variacao_diaria_pct":2.41,
+        "valor_usd":2.57,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":352.83,
+        "variacao_diaria_pct":-0.08,
+        "valor_usd":0.16,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":353.1,
+        "variacao_diaria_pct":-0.67,
+        "valor_usd":0.24,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":355.47,
+        "variacao_diaria_pct":-0.5,
+        "valor_usd":0.91,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":357.25,
+        "variacao_diaria_pct":0.55,
+        "valor_usd":1.41,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":355.28,
+        "variacao_diaria_pct":0.74,
+        "valor_usd":0.85,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":352.66,
+        "variacao_diaria_pct":1.25,
+        "valor_usd":0.11,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":348.32,
+        "variacao_diaria_pct":-1.18,
+        "valor_usd":-1.12,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":352.48,
+        "variacao_diaria_pct":0.06,
+        "valor_usd":0.06,
+        "local":"Prazo De 8 Dias",
+        "data_extracao":1774260321000
+    }
+]

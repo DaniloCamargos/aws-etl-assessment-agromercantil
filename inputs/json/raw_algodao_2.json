@@ -1,0 +1,50 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":372.45,
+        "variacao_diaria_pct":0.75,
+        "valor_usd":5.73,
+        "local":"Média Móvel Dos Últimos Três Indicadores (8 Dias)",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":369.67,
+        "variacao_diaria_pct":0.62,
+        "valor_usd":4.94,
+        "local":"Média Móvel Dos Últimos Três Indicadores (8 Dias)",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":367.41,
+        "variacao_diaria_pct":0.62,
+        "valor_usd":4.3,
+        "local":"Média Móvel Dos Últimos Três Indicadores (8 Dias)",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":365.15,
+        "variacao_diaria_pct":0.44,
+        "valor_usd":3.66,
+        "local":"Média Móvel Dos Últimos Três Indicadores (8 Dias)",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":363.56,
+        "variacao_diaria_pct":1.13,
+        "valor_usd":3.2,
+        "local":"Média Móvel Dos Últimos Três Indicadores (8 Dias)",
+        "data_extracao":1774260321000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":359.5,
+        "variacao_diaria_pct":1.05,
+        "valor_usd":2.05,
+        "local":"Média Móvel Dos Últimos Três Indicadores (8 Dias)",
+        "data_extracao":1774260321000
+    }
+]

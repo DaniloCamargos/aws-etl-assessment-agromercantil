@@ -1,0 +1,7 @@
+Otimização e Indexação (15 pontos)
+Tarefas:
+Avalie a performance das consultas da questão 6. 
+Sugira índices ou ajustes de modelagem para otimização. 
+Justifique suas escolhas.
+
+

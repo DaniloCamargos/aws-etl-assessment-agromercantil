@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":30.77,
+        "variacao_diaria_pct":0.2,
+        "valor_usd":-2.84,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":30.71,
+        "variacao_diaria_pct":-0.65,
+        "valor_usd":-3.03,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":30.91,
+        "variacao_diaria_pct":-0.64,
+        "valor_usd":-2.4,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":31.11,
+        "variacao_diaria_pct":0.35,
+        "valor_usd":-1.77,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":31.0,
+        "variacao_diaria_pct":-5.66,
+        "valor_usd":-2.12,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":32.86,
+        "variacao_diaria_pct":-1.41,
+        "valor_usd":3.76,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":33.33,
+        "variacao_diaria_pct":3.45,
+        "valor_usd":5.24,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":32.22,
+        "variacao_diaria_pct":0.69,
+        "valor_usd":1.74,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":32.0,
+        "variacao_diaria_pct":-0.84,
+        "valor_usd":1.04,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":32.27,
+        "variacao_diaria_pct":3.6,
+        "valor_usd":1.89,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":31.15,
+        "variacao_diaria_pct":0.0,
+        "valor_usd":-1.64,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":31.15,
+        "variacao_diaria_pct":-1.11,
+        "valor_usd":-1.64,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":31.5,
+        "variacao_diaria_pct":-0.54,
+        "valor_usd":-0.54,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":31.67,
+        "variacao_diaria_pct":1.34,
+        "valor_usd":0.0,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":31.25,
+        "variacao_diaria_pct":-1.33,
+        "valor_usd":-1.33,
+        "local":"Laranja Indústria",
+        "data_extracao":1774260396000
+    }
+]

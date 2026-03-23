@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":71.37,
+        "variacao_diaria_pct":-0.36,
+        "valor_usd":2.65,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":71.63,
+        "variacao_diaria_pct":0.6,
+        "valor_usd":3.02,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":71.2,
+        "variacao_diaria_pct":-1.14,
+        "valor_usd":2.4,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":72.02,
+        "variacao_diaria_pct":-0.11,
+        "valor_usd":3.58,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":72.1,
+        "variacao_diaria_pct":0.17,
+        "valor_usd":3.7,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":71.98,
+        "variacao_diaria_pct":0.59,
+        "valor_usd":3.52,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":71.56,
+        "variacao_diaria_pct":0.34,
+        "valor_usd":2.92,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":71.32,
+        "variacao_diaria_pct":0.32,
+        "valor_usd":2.57,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":71.09,
+        "variacao_diaria_pct":0.65,
+        "valor_usd":2.24,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":70.63,
+        "variacao_diaria_pct":0.1,
+        "valor_usd":1.58,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":70.56,
+        "variacao_diaria_pct":0.46,
+        "valor_usd":1.48,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":70.24,
+        "variacao_diaria_pct":0.01,
+        "valor_usd":1.02,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":70.23,
+        "variacao_diaria_pct":0.36,
+        "valor_usd":1.01,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":69.98,
+        "variacao_diaria_pct":0.33,
+        "valor_usd":0.65,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":69.75,
+        "variacao_diaria_pct":0.32,
+        "valor_usd":0.32,
+        "local":"Indicador Do Milho Esalq\/Bm&Fbovespa",
+        "data_extracao":1774260514000
+    }
+]

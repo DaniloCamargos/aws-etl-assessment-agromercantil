@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":117.9,
+        "variacao_diaria_pct":1.03,
+        "valor_usd":10.07,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":116.7,
+        "variacao_diaria_pct":5.3,
+        "valor_usd":8.95,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":110.83,
+        "variacao_diaria_pct":1.39,
+        "valor_usd":3.47,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":109.31,
+        "variacao_diaria_pct":0.59,
+        "valor_usd":2.05,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":108.67,
+        "variacao_diaria_pct":-0.76,
+        "valor_usd":1.46,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":109.5,
+        "variacao_diaria_pct":0.17,
+        "valor_usd":2.23,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":109.31,
+        "variacao_diaria_pct":1.57,
+        "valor_usd":2.05,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":107.62,
+        "variacao_diaria_pct":0.71,
+        "valor_usd":0.48,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":106.86,
+        "variacao_diaria_pct":-4.08,
+        "valor_usd":-0.23,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":111.4,
+        "variacao_diaria_pct":2.82,
+        "valor_usd":4.01,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":108.34,
+        "variacao_diaria_pct":2.23,
+        "valor_usd":1.15,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":105.98,
+        "variacao_diaria_pct":3.59,
+        "valor_usd":-1.05,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":102.31,
+        "variacao_diaria_pct":-6.84,
+        "valor_usd":-4.48,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":109.82,
+        "variacao_diaria_pct":2.23,
+        "valor_usd":2.53,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":107.42,
+        "variacao_diaria_pct":0.29,
+        "valor_usd":0.29,
+        "local":"Santos (Fob)",
+        "data_extracao":1774260306000
+    }
+]

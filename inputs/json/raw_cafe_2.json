@@ -1,0 +1,122 @@
+[
+    {
+        "data_referencia":1773964800000,
+        "valor_brl":1014.04,
+        "variacao_diaria_pct":0.88,
+        "valor_usd":-1.81,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773878400000,
+        "valor_brl":1005.22,
+        "variacao_diaria_pct":0.94,
+        "valor_usd":-2.67,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773792000000,
+        "valor_brl":995.85,
+        "variacao_diaria_pct":0.63,
+        "valor_usd":-3.57,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773705600000,
+        "valor_brl":989.6,
+        "variacao_diaria_pct":-0.45,
+        "valor_usd":-4.18,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773619200000,
+        "valor_brl":994.04,
+        "variacao_diaria_pct":-0.6,
+        "valor_usd":-3.75,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773360000000,
+        "valor_brl":1000.05,
+        "variacao_diaria_pct":-1.12,
+        "valor_usd":-3.17,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773273600000,
+        "valor_brl":1011.41,
+        "variacao_diaria_pct":1.25,
+        "valor_usd":-2.07,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773187200000,
+        "valor_brl":998.97,
+        "variacao_diaria_pct":-3.67,
+        "valor_usd":-3.27,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773100800000,
+        "valor_brl":1037.08,
+        "variacao_diaria_pct":-2.81,
+        "valor_usd":0.42,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1773014400000,
+        "valor_brl":1067.07,
+        "variacao_diaria_pct":-0.34,
+        "valor_usd":3.32,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772755200000,
+        "valor_brl":1070.68,
+        "variacao_diaria_pct":0.48,
+        "valor_usd":3.67,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772668800000,
+        "valor_brl":1065.57,
+        "variacao_diaria_pct":-0.22,
+        "valor_usd":3.18,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772582400000,
+        "valor_brl":1067.9,
+        "variacao_diaria_pct":-0.67,
+        "valor_usd":3.4,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772496000000,
+        "valor_brl":1075.07,
+        "variacao_diaria_pct":1.8,
+        "valor_usd":4.1,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    },
+    {
+        "data_referencia":1772409600000,
+        "valor_brl":1056.07,
+        "variacao_diaria_pct":2.26,
+        "valor_usd":2.26,
+        "local":"Indicador Do Café Robusta Cepea\/Esalq",
+        "data_extracao":1774260381000
+    }
+]

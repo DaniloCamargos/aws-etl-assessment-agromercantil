@@ -1,0 +1,16 @@
+Estruturação do Data Lake (10 pontos)
+Tarefas:
+Explique como estruturaria um Data Lake simples em três camadas: 
+raw (dados brutos) 
+processed (dados tratados) 
+curated (dados prontos para análise) 
+Mostre um exemplo de diretório. 
+
+
+Resposta:
+
+- Basicamente na camada raw é a própria tradução, são os dados crus mesmo sem nenhum tipo de tratamento, ou seja, são os dados como vem da fonte original.
+
+- Já na camada processed, é uma camada onde os dados já estão tratados e normalizados, além de conter os relacionamentos.
+
+- E na camada curated, os dados já são para a parte analitica do negócios, são dados prontos para consumos de saque rápido, ou seja, consumo personalizado para cara stakeholder.
